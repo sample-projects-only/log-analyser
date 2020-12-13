@@ -1,0 +1,9 @@
+com.github.chandanv89.loganalyser
+com.github.chandanv89.loganalyser.conf
+com.github.chandanv89.loganalyser.manager
+com.github.chandanv89.loganalyser.model
+com.github.chandanv89.loganalyser.model.persistence
+com.github.chandanv89.loganalyser.repository
+com.github.chandanv89.loganalyser.service
+com.github.chandanv89.loganalyser.utilities
+com.github.chandanv89.loganalyser.validator
